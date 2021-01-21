@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+    font-size: 100px;
+    font-family: 'Audiowide', cursive;
+}
+
+.linea1 {
+    margin: 30px 0px 0px 10px;
+    font-size: 100px;
+    font-family: 'Libre Barcode 39 Extended Text', cursive;
+}

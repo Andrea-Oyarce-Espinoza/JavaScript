@@ -1,0 +1,35 @@
+body {
+    background-image: url(../img/fondo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Codystar', cursive;
+    background-color: black;
+    font-size: 100px;
+    font-weight: bolder;
+    padding: 10px;
+}
+
+.walk-chillon, .walk-transparente, .stop-chillon, .stop-transparente{
+    border-radius: 100px;
+}
+
+.walk-chillon{
+    color: lime;
+    border: lime solid 30px;
+}
+.stop-chillon {
+    color: red;
+    border: red solid 30px;
+}
+.walk-transparente {
+    color: lime;
+    opacity: 0.5;
+    border: lime solid 30px;
+}
+.stop-transparente {
+    color: red;
+    opacity: 0.5;
+    border: red solid 30px;
+}
+
