@@ -1,0 +1,26 @@
+body {
+    background-image: url(../img/fondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.atras {
+    font-family: 'Lexend Giga', sans-serif;
+    color: black;
+    font-size: 40px;
+    position: absolute;
+    top: 360px;
+    width: 1700px;
+}
+.atras1{
+    font-family: 'Lexend Giga', sans-serif;
+    color: black;
+    font-size: 40px;
+    position: absolute;
+    top: 510px;
+}
+
+.mensaje {
+    font-family: 'Frijole', cursive;
+    position: absolute;
+    font-size: 90px;
+}
