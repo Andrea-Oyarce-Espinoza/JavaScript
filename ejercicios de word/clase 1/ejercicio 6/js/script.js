@@ -1,0 +1,6 @@
+var X = Math.floor(Math.random()*100)
+var Y = Math.floor(Math.random()*100)
+console.log('La múltiplicación de ' + X + ' por ' + Y + ' es igual a ' + (X * Y))
+console.log('La división de ' + X + ' por ' + Y + ' es igual a ' + (X / Y))
+console.log('La suma de ' + X + ' con ' + Y + ' es igual a ' + (X + Y))
+console.log('La resta de ' + X + ' con ' + Y + ' es igual a ' + (X - Y))

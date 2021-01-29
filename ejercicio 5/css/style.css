@@ -6,21 +6,21 @@ body {
 .atras {
     font-family: 'Lexend Giga', sans-serif;
     color: black;
-    font-size: 40px;
+    font-size: 35px;
     position: absolute;
-    top: 360px;
-    width: 1700px;
+    top: 280px;
+    width: 1500px;
 }
 .atras1{
     font-family: 'Lexend Giga', sans-serif;
     color: black;
-    font-size: 40px;
+    font-size: 35px;
     position: absolute;
-    top: 510px;
+    top: 420px;
 }
 
 .mensaje {
     font-family: 'Frijole', cursive;
     position: absolute;
-    font-size: 90px;
+    font-size: 70px;
 }

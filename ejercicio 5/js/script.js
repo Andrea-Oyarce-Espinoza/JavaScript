@@ -3,7 +3,7 @@ const RANGO_MAX = 15
 var rango = Math.floor(Math.random()*RANGO_MAX)
 var x = 160 + rango
 rango*= ((Math.random() < 0.5)? -1: 1)
-var y= 520 + rango
+var y= 438 + rango
 
 
 
