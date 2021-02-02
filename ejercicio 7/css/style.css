@@ -9,8 +9,8 @@ body {
     width: 300px;
 }
 .guitarra {
+    height: 400px;
     position: absolute;
     top: 120px;
     left: 145px;
-    transform: rotate(-35deg);
 }
