@@ -1,0 +1,9 @@
+body {
+    background-color: black; 
+}
+.estilo {
+    position: absolute;
+    opacity: 0.5;
+    top: 150px;
+    left: 550px;
+}
