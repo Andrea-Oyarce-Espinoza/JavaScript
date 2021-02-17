@@ -13,7 +13,7 @@ for(var i=0; i<tope; i++) {
         let x  = 100
         let y  = 100
         estilo = 'position: absolute; top: ' + y + 'px; left: ' + x + 'px; width: ' + ANCHO1 + 'px; height: ' + ALTO1 + 'px; transform: scale(-1)'
-    }else if(n_azar == 1=) {
+    }else if(n_azar == 1) {
         img    = '2.png'
         let x  = 300
         let y  = 100
@@ -29,5 +29,5 @@ for(var i=0; i<tope; i++) {
         let y  = 100
         estilo = 'position: absolute; top: ' + y + 'px; left: ' + x + 'px; width: ' + ANCHO4 + 'px; height: ' + ALTO4 + 'px;'
     }
-    document.writeln('<img src="img/' + img + '" style"' + estilo + '">')
+    document.writeln('<img src="../img/' + img + '" style="' + estilo + '">')
 }
