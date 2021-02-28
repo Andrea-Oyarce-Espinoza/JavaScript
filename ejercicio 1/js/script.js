@@ -1,3 +1,6 @@
+
+
+
 var numero = Math.floor(Math.random() * 10)
 
 document.writeln('Número al azar ' + numero + '<BR>')

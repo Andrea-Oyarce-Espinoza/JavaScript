@@ -1,10 +1,9 @@
-var numero = prompt('Ingresa un número:')
+var numero, i;
+i=0;
+numero=parseInt(prompt('Ingresa un número:'));
 
-for (var i=1; i<=numero; i++){
-    if(n%2 == 0) {
-        document.writeln('<div>' + (i) + 'Es un número par</div>')
-    }else{
-        document.writeln('<div>' + (i) + 'Es un número impar</div>')
+for (i=0; i<=numero; i++){
+    if(i%2==0){
+    document.write('<br>' + i);
     }
- 
 }
